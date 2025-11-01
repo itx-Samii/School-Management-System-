@@ -1,0 +1,3 @@
+101,Ali Khan,10th-A,ali123
+102,Sana Ahmed,9th-B,sana123
+64860,sameer,Software,sami123
