@@ -1,0 +1,3 @@
+Parent of 101 (ID: 101)|When will the final term exams start?|They start on 15th Jan.
+Parent of 102 (ID: 102)|My child was marked absent by mistake yesterday.|We will check the register.
+Parent of 103 (ID: 103)|Fee challan not received.|Pending

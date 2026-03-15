@@ -1,3 +1,4 @@
-101,Ali Khan,10th-A,ali123
-102,Sana Ahmed,9th-B,sana123
-64860,sameer,Software,sami123
+101|Ali Ahmed|10th|ali123
+102|Sara Khan|10th|sara123
+103|Bilal Raza|9th|bilal123
+104|Zainab Bibi|9th|zainab123
